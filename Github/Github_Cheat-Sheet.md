@@ -34,15 +34,15 @@ https://simpleicons.org 사이트 참고
 
 # 레퍼지토리
 ## 01. 생성
-래퍼지토리로 이동<br>
++ 래퍼지토리로 이동<br>
 <img width="100" alt="image" src="https://user-images.githubusercontent.com/88806404/203977708-8700dcba-f1e8-4094-9401-c35b8f1da9a8.png"> <br>
-만들기<br>
++ 만들기<br>
 <img width="100" alt="image" src="https://user-images.githubusercontent.com/88806404/203977555-01f41eb5-dc65-41c0-a48f-1c3ed96afe02.png"><br>
-폴더 이름 작성<br>
++ 폴더 이름 작성<br>
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/88806404/203977946-1418cb1c-79a2-419f-9330-8482568e5028.png"><br>
-리드미 파일 생성 선택<br>
++ 리드미 파일 생성 선택<br>
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/88806404/203978861-cc3a1eab-76b7-44bd-b100-c6fd11ace23c.png"><br>
-생성하기<br>
++ 생성하기<br>
 <img width="150" alt="image" src="https://user-images.githubusercontent.com/88806404/203978993-68572561-b726-4623-861c-41f6f02be18e.png">
 
 ---
