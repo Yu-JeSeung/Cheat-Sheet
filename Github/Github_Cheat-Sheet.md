@@ -115,7 +115,7 @@ https://simpleicons.org 사이트 참고
     > Todo : 해야할 일<br>
     > In Progress : 하는중<br>
     > Done : 완료
-    + 하단에 add item을 눌러 제목을 입력합니다.
+    + 하단에 add item을 눌러 제목을 입력합니다.<br>
     <img width="350" alt="image" src="https://user-images.githubusercontent.com/88806404/204181613-9d47ff32-71ec-43cb-907e-3501104c5d44.png"><br>
     + Draft 옆에...을 누르고 Convert to issue로 현재 등록되어 있는 레퍼지토리를 선택할 수 있습니다.<br>
 
