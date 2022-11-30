@@ -123,6 +123,14 @@ https://simpleicons.org 사이트 참고
 
 # 위키
 프로젝트 저장소의 문서를 쉽게 작성할 수 있도록 제공된 기능입니다.<br>
+> 레퍼지토리에 들어가면 해당처럼 위키가 뜹니다.<br>
+<img width="100" alt="image" src="https://user-images.githubusercontent.com/88806404/204691351-39b462f1-2245-4abb-8b23-2771db4bc677.png"><br>
+> 다음처럼 문서들을 정리할 수 있습니다.<br>
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/88806404/204691572-5a46075e-baf4-4d01-b937-9ac669182231.png"><br>
++ 위키 만들기<br>
+
+
+
 
 
 
