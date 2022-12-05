@@ -128,6 +128,14 @@ https://simpleicons.org 사이트 참고
 > 다음처럼 문서들을 정리할 수 있습니다.<br>
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/88806404/204691572-5a46075e-baf4-4d01-b937-9ac669182231.png"><br>
 + 위키 만들기<br>
+<img width="100" alt="image" src="https://user-images.githubusercontent.com/88806404/205524421-8f132502-de5a-4d9a-86b7-45cb7b815f6f.png"><br>
++ 제목과 내용 적기<br>
+<img width="900" alt="image" src="https://user-images.githubusercontent.com/88806404/205524476-f0e6b16e-3e0f-446a-9ede-a2cb7d7a649a.png"><br>
++ 이슈 등록하기<br>
+<img width="150" alt="image" src="https://user-images.githubusercontent.com/88806404/205524515-8862a929-cccc-4cfe-99ad-e40244d61d98.png"><br>
+
+
+
 
 
 
